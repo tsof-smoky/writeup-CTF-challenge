@@ -6,10 +6,9 @@ The case was assigned to you. Inspect the PCAP and retrieve the artifacts to con
 
 Your tools:
 
-    Brim
-    Network Miner
-    Wireshark
-
+-   [Brim](https://tryhackme.com/room/brim)
+-   [Network Miner](https://tryhackme.com/room/networkminer)
+-   [Wireshark](https://tryhackme.com/room/wireshark)
 
 
 1. What was the alert signature for A Network Trojan was Detected?
