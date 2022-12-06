@@ -58,7 +58,7 @@ index="win_eventlogs" (UserName=haroon OR Chris.fort OR Daina)
 ```
 ***Note: Pay attention to case sensitive (ex. UserName ≠ Username)***
 
-![[Pasted image 20221203175933.png]]
+![Pasted image 20221203175933](https://user-images.githubusercontent.com/107832241/205443162-38f8b227-49e7-487b-8a60-e3b16859bf46.png)
 
 >Answer: haroon
 
@@ -70,7 +70,7 @@ index="win_eventlogs" certutil.exe
 | dedup ProcessName
 ```
 
-![[Pasted image 20221203202015.png]]
+![Pasted image 20221203202015](https://user-images.githubusercontent.com/107832241/205443177-283d2db3-2e43-4222-a98f-09b365ff2310.png)
 
 >Answer: certutil.exe
 
@@ -88,7 +88,7 @@ index="win_eventlogs" certutil.exe
 
 9. The suspicious file downloaded from the C2 server contained malicious content with the pattern THM{..........}; what is that pattern?
 
-![[Pasted image 20221203202319.png]]
+![Pasted image 20221203202319](https://user-images.githubusercontent.com/107832241/205443183-605e2907-4d79-454b-baa0-37ff134136ea.png)
 
 >Answer: THM{KJ&\*H^B0}
 
